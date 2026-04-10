@@ -6,9 +6,8 @@
     },
     "routes": [
         {
-            "src": "/api/index",
+            "src": "/api/invoice",
             "dest": "/api/index.js"
         }
     ]
 }
-``

@@ -1,0 +1,24 @@
+{
+  "name": "invoice-api",
+  "version": "1.0.0",
+  "description": "Invoice Generator API with PDF support",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debbarnf18-bot/invoice-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/debbarnf18-bot/invoice-api/issues"
+  },
+  "homepage": "https://github.com/debbarnf18-bot/invoice-api#readme",
+  "dependencies": {
+    "pdfkit": "^0.18.0"
+  }
+}
