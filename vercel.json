@@ -1,13 +1,8 @@
 {
-    "functions": {
-        "api/index.js": {
-            "runtime": "nodejs20.x"
-        }
-    },
-    "routes": [
-        {
-            "src": "/api/invoice",
-            "dest": "/api/index.js"
-        }
-    ]
+  "routes": [
+    {
+      "src": "/api/invoice",
+      "dest": "/api/index.js"
+    }
+  ]
 }
